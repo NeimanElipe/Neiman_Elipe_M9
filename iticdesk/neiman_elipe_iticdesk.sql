@@ -7,6 +7,7 @@ GRANT APPLICATION_PASSWORD_ADMIN, AUDIT_ABORT_EXEMPT, AUDIT_ADMIN, AUTHENTICATIO
 
 FLUSH PRIVILEGES;
 
+USE  neiman_elipe_iticdesk;
 
 -- Servidor: localhost:3306
 -- Tiempo de generación: 23-02-2025 a las 16:22:47
