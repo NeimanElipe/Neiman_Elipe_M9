@@ -1,6 +1,6 @@
 -- El meu usuari mysql.
 CREATE USER 'nelipe'@'localhost' IDENTIFIED BY 'pirineus';
-GRANT ALL PRIVILEGES ON neiman_elipe_iticdesk.* TO 'nelipe'@'localhost'
+GRANT ALL PRIVILEGES ON neiman_elipe_iticdesk.* TO 'nelipe'@'localhost';
 FLUSH PRIVILEGES;
 
 CREATE DATABASE neiman_elipe_iticdesk;
